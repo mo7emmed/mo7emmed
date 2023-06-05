@@ -10,7 +10,7 @@
 
 - 📫 Reach me on **mohemmed.a.selman@gmail.com**
 
-- ⚡ Fun fact **I'm a chess nerd!**
+- ⚡ Fun fact: **I'm a chess nerd!**
 
 <h3 align="left">Find me at Kaggle:</h3>
 <p align="left">
